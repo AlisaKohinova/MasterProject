@@ -7,3 +7,10 @@ input: opti trap (initial pos, velocity, acc) pairwise compared to simulated by 
 
 ## 15.06
 Added rotation file jupyter and generated (360 files * 5 circle shapes)
+
+## 19.06
+Added traps rotation file jupyter and generated (360 files * 5 circle shapes)
+
+Next steps:
+- velocity, acceleration
+- reform the files for the simulator? check if rotated files work correctly 
