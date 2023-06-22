@@ -14,3 +14,6 @@ Added traps rotation file jupyter and generated (360 files * 5 circle shapes)
 Next steps:
 - velocity, acceleration
 - reform the files for the simulator? check if rotated files work correctly 
+
+## 22.06
+Velocity/acceleration notebook added
